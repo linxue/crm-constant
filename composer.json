@@ -1,0 +1,20 @@
+{
+    "name": "pitozoo/crmconstant",
+    "type": "library",
+    "description": "CrmConstant",
+    "keywords": [ "CrmConstant" ],
+    "homepage": "https://github.com/pitozoo/CrmConstant",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pitozoo",
+            "email": "pitozoo@sina.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CrmConstant\\": "src/"
+        }
+    },
+    "require": {}
+}
