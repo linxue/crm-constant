@@ -1,6 +1,6 @@
 <?php
 
-namespace YZ\Oa\Ecmall;
+namespace CrmConstant\Ecmall;
 
 /**
  * 电子合同 常量

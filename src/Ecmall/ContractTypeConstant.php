@@ -1,6 +1,6 @@
 <?php
 
-namespace YZ\Oa\Ecmall;
+namespace CrmConstant\Ecmall;
 
 /**
  * 合同版本 配置常量

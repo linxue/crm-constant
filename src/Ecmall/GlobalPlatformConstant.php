@@ -1,6 +1,6 @@
 <?php
 
-namespace YZ\Oa\Ecmall;
+namespace CrmConstant\Ecmall;
 
 /**
  * 公域平台的配置常量
